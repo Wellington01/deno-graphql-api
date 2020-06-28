@@ -1,6 +1,6 @@
 # deno-api
 
-Creating a simple CRUD API to test the deno with Oak-GraphQL.
+Creating a simple CRUD API to test the deno with Oak-GraphQL and Mongodb.
 
 # run
 
